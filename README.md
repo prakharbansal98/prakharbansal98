@@ -25,9 +25,9 @@
 <br /><br /><br /><br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapremsharma&theme=vue)](https://github.com/adityapremsharma/github-readme-stats)
-![Github stats](https://github-readme-stats.vercel.app/api?username=adityapremsharma&theme=vue&show_icons=true)
-<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adityapremsharma&repo=adityapremsharma.github.io) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakharbansal98&theme=vue)](https://github.com/adityapremsharma/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=prakharbansal98&theme=vue&show_icons=true)
+<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prakharbansal98&repo=prakharbansal98.github.io) -->
 
 
 ### Lets Connect:
